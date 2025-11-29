@@ -17,14 +17,14 @@ SpaceBite is a modern, responsive landing page for an intergalactic-themed resta
 - **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
+- **AI Used**: Vercel v0, Gemini
 - **Font**: Geist Sans & Mono
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone 
    cd space-bite
    ```
 
