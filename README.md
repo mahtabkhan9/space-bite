@@ -24,7 +24,7 @@ SpaceBite is a modern, responsive landing page for an intergalactic-themed resta
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/mahtabkhan9/space-bite.git
    cd space-bite
    ```
 
